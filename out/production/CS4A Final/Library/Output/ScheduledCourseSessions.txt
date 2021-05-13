@@ -1,0 +1,66 @@
+Course #7352
+Bio 1
+Teacher: Bill 2726
+Joe Bob Whatever 4810
+Donald J Trump 9830
+Barrack H Obama 812
+George W Bush 7475
+Bill Jefferson Clinton 3221
+
+
+Course #26998
+Bio 1
+Teacher: Bill 2726
+George Herbert Walker Bush 3202
+Jimmy Earl Carter 6411
+Gerald Rudolph Ford 5020
+Richard Milhous Nixon 899
+Lyndon Baines Johnson 7194
+
+
+Course #8197
+Bio 1
+Teacher: Bob 14783
+John Fitzgerald Kennedy 6615
+Dwight David Eisenhower 6816
+
+
+Course #17710
+Bio 2
+Teacher: Joe 12747
+Bill Jefferson Clinton 3221
+Richard Milhous Nixon 899
+John Fitzgerald Kennedy 6615
+
+
+Course #22821
+CS4A
+Teacher: Sally 16641
+Joe Bob Whatever 4810
+Donald J Trump 9830
+George W Bush 7475
+
+
+Course #19070
+CS4A
+Teacher: Sally 16641
+George Herbert Walker Bush 3202
+Ronald Wilson Reagan 2579
+Jimmy Earl Carter 6411
+
+
+Course #7348
+CS4A
+Teacher: John 15600
+Gerald Rudolph Ford 5020
+Lyndon Baines Johnson 7194
+Dwight David Eisenhower 6816
+
+
+Course #9168
+CS1A
+Teacher: John 15600
+George Herbert Walker Bush 3202
+Dwight David Eisenhower 6816
+
+

@@ -1,0 +1,65 @@
+Student 4282
+Joe Bob Whatever
+11501 Bio 1 5 Students
+24077 CS4A 3 Students
+
+Student 1233
+Donald J Trump
+11501 Bio 1 5 Students
+24077 CS4A 3 Students
+
+Student 5918
+Barrack H Obama
+11501 Bio 1 5 Students
+
+Student 4884
+George W Bush
+11501 Bio 1 5 Students
+24077 CS4A 3 Students
+
+Student 9336
+Bill Jefferson Clinton
+11501 Bio 1 5 Students
+21063 Bio 2 3 Students
+
+Student 298
+George Herbert Walker Bush
+27441 Bio 1 5 Students
+12843 CS4A 3 Students
+7944 CS1A 2 Students
+
+Student 5644
+Ronald Wilson Reagan
+12843 CS4A 3 Students
+
+Student 1323
+Jimmy Earl Carter
+27441 Bio 1 5 Students
+12843 CS4A 3 Students
+
+Student 6313
+Gerald Rudolph Ford
+27441 Bio 1 5 Students
+28623 CS4A 3 Students
+
+Student 4926
+Richard Milhous Nixon
+27441 Bio 1 5 Students
+21063 Bio 2 3 Students
+
+Student 3419
+Lyndon Baines Johnson
+27441 Bio 1 5 Students
+28623 CS4A 3 Students
+
+Student 3960
+John Fitzgerald Kennedy
+22432 Bio 1 2 Students
+21063 Bio 2 3 Students
+
+Student 2932
+Dwight David Eisenhower
+22432 Bio 1 2 Students
+28623 CS4A 3 Students
+7944 CS1A 2 Students
+

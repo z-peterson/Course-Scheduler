@@ -1,0 +1,14 @@
+Bio 1, CS4A
+Bio 1, CS4A
+Bio 1
+CS4A, Bio 1
+Bio 1, Bio 2
+CS4A, CS1A, Bio 1
+cs4a
+Bio 1, CS4A
+Bio 1, CS4A
+Bio 1, Bio 2
+CS4A, Bio 1
+Bio 1, Bio 2
+CS4A, CS1A, Bio 1
+cs4a

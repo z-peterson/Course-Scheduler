@@ -1,0 +1,15 @@
+Course #7297
+Bio 1
+Bob 8183
+Required 2 Students
+
+Course #14696
+Bio 2
+Joe 19491
+Required 3 Students
+
+Course #18856
+CS1A
+NA 427
+Required 2 Students
+
